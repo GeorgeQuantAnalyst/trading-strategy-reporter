@@ -1,0 +1,5 @@
+pandas==1.4.2
+openpyxl==3.0.9
+pyyaml==6.0
+matplotlib==3.5.2
+mplfinance==v0.12.9b1
